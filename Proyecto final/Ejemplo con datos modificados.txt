@@ -1,0 +1,3 @@
+Detalles del vehiculo:
+| Vehículo                  | Costo Vehiculo  | Promedio Uso Meses   | Consumo (L/Km)  | Costo Combustible | Consumo (Km/Galon) | Viaje (Km)      | Costo Mantenimiento  | Costo Seguro Anual   | Depreciacion    |
+| Corolla                   | 800000.00       | 10.00                | 16.00           | 100.00          | 0.47            | 90.00           | 20000.00             | 120000.00           | 80000.00        |
